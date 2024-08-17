@@ -1,0 +1,726 @@
+
+big_win.jpg
+size: 2012,1865
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_dian/bw_trans_elec_add_00
+  rotate: true
+  xy: 411, 1720
+  size: 144, 157
+  orig: 508, 505
+  offset: 184, 177
+  index: -1
+b_dian/bw_trans_elec_add_01
+  rotate: true
+  xy: 729, 1610
+  size: 254, 275
+  orig: 508, 505
+  offset: 127, 118
+  index: -1
+b_dian/bw_trans_elec_add_02
+  rotate: false
+  xy: 1, 1860
+  size: 4, 4
+  orig: 508, 505
+  offset: 0, 501
+  index: -1
+b_dian/bw_trans_elec_add_04
+  rotate: false
+  xy: 1, 1860
+  size: 4, 4
+  orig: 508, 505
+  offset: 0, 501
+  index: -1
+b_dian/bw_trans_elec_add_06
+  rotate: false
+  xy: 1, 1860
+  size: 4, 4
+  orig: 508, 505
+  offset: 0, 501
+  index: -1
+b_dian/bw_trans_elec_add_10
+  rotate: false
+  xy: 1, 1860
+  size: 4, 4
+  orig: 508, 505
+  offset: 0, 501
+  index: -1
+r_dian/tw_impact_screen_00
+  rotate: false
+  xy: 1, 1860
+  size: 4, 4
+  orig: 526, 535
+  offset: 0, 531
+  index: -1
+r_dian/tw_impact_screen_05
+  rotate: false
+  xy: 1, 1860
+  size: 4, 4
+  orig: 526, 535
+  offset: 0, 531
+  index: -1
+r_dian/tw_impact_screen_06
+  rotate: false
+  xy: 1, 1860
+  size: 4, 4
+  orig: 526, 535
+  offset: 0, 531
+  index: -1
+r_dian/tw_impact_screen_08
+  rotate: false
+  xy: 1, 1860
+  size: 4, 4
+  orig: 526, 535
+  offset: 0, 531
+  index: -1
+r_dian/tw_impact_screen_09
+  rotate: false
+  xy: 1, 1860
+  size: 4, 4
+  orig: 526, 535
+  offset: 0, 531
+  index: -1
+r_dian/tw_impact_screen_10
+  rotate: false
+  xy: 1, 1860
+  size: 4, 4
+  orig: 526, 535
+  offset: 0, 531
+  index: -1
+r_dian/tw_impact_screen_11
+  rotate: false
+  xy: 1, 1860
+  size: 4, 4
+  orig: 526, 535
+  offset: 0, 531
+  index: -1
+y_dian/mw_trans_elec_add_02
+  rotate: false
+  xy: 1, 1860
+  size: 4, 4
+  orig: 508, 505
+  offset: 0, 501
+  index: -1
+y_dian/mw_trans_elec_add_04
+  rotate: false
+  xy: 1, 1860
+  size: 4, 4
+  orig: 508, 505
+  offset: 0, 501
+  index: -1
+y_dian/mw_trans_elec_add_06
+  rotate: false
+  xy: 1, 1860
+  size: 4, 4
+  orig: 508, 505
+  offset: 0, 501
+  index: -1
+y_dian/mw_trans_elec_add_10
+  rotate: false
+  xy: 1, 1860
+  size: 4, 4
+  orig: 508, 505
+  offset: 0, 501
+  index: -1
+b_light/bw_bg_ray_screen_00
+  rotate: false
+  xy: 366, 1355
+  size: 298, 363
+  orig: 298, 363
+  offset: 0, 0
+  index: -1
+b_light/bw_bg_ray_screen_01
+  rotate: true
+  xy: 1096, 71
+  size: 298, 363
+  orig: 298, 363
+  offset: 0, 0
+  index: -1
+b_light/bw_bg_ray_screen_02
+  rotate: true
+  xy: 1461, 71
+  size: 298, 363
+  orig: 298, 363
+  offset: 0, 0
+  index: -1
+b_light/bw_bg_ray_screen_03
+  rotate: true
+  xy: 1, 1
+  size: 298, 363
+  orig: 298, 363
+  offset: 0, 0
+  index: -1
+bw_light/mw_ufo_ray_add
+  rotate: true
+  xy: 7, 1796
+  size: 68, 200
+  orig: 68, 200
+  offset: 0, 0
+  index: -1
+bw_light/smw_ufo_ray_add
+  rotate: true
+  xy: 209, 1796
+  size: 68, 200
+  orig: 68, 200
+  offset: 0, 0
+  index: -1
+g_light/mw_bg_ray_screen_00
+  rotate: true
+  xy: 1283, 1567
+  size: 297, 363
+  orig: 297, 363
+  offset: 0, 0
+  index: -1
+g_light/mw_bg_ray_screen_01
+  rotate: true
+  xy: 1648, 1567
+  size: 297, 363
+  orig: 297, 363
+  offset: 0, 0
+  index: -1
+g_light/mw_bg_ray_screen_02
+  rotate: true
+  xy: 1, 1497
+  size: 297, 363
+  orig: 297, 363
+  offset: 0, 0
+  index: -1
+g_light/mw_bg_ray_screen_03
+  rotate: true
+  xy: 666, 1311
+  size: 297, 363
+  orig: 297, 363
+  offset: 0, 0
+  index: -1
+g_light/mw_bg_ray_screen_04
+  rotate: true
+  xy: 1031, 1268
+  size: 297, 363
+  orig: 297, 363
+  offset: 0, 0
+  index: -1
+g_light/mw_bg_ray_screen_05
+  rotate: true
+  xy: 1396, 1268
+  size: 297, 363
+  orig: 297, 363
+  offset: 0, 0
+  index: -1
+g_light/mw_bg_ray_screen_06
+  rotate: true
+  xy: 1, 1198
+  size: 297, 363
+  orig: 297, 363
+  offset: 0, 0
+  index: -1
+g_light/mw_bg_ray_screen_07
+  rotate: true
+  xy: 366, 1012
+  size: 297, 363
+  orig: 297, 363
+  offset: 0, 0
+  index: -1
+g_light/mw_bg_ray_screen_08
+  rotate: true
+  xy: 731, 969
+  size: 297, 363
+  orig: 297, 363
+  offset: 0, 0
+  index: -1
+g_light/mw_bg_ray_screen_09
+  rotate: true
+  xy: 1096, 969
+  size: 297, 363
+  orig: 297, 363
+  offset: 0, 0
+  index: -1
+g_light/mw_bg_ray_screen_10
+  rotate: true
+  xy: 1461, 969
+  size: 297, 363
+  orig: 297, 363
+  offset: 0, 0
+  index: -1
+g_light/mw_bg_ray_screen_11
+  rotate: true
+  xy: 1, 899
+  size: 297, 363
+  orig: 297, 363
+  offset: 0, 0
+  index: -1
+y_dian/mw_trans_elec_add_00
+  rotate: true
+  xy: 570, 1720
+  size: 144, 157
+  orig: 508, 505
+  offset: 184, 177
+  index: -1
+y_dian/mw_trans_elec_add_01
+  rotate: true
+  xy: 1006, 1610
+  size: 254, 275
+  orig: 508, 505
+  offset: 127, 118
+  index: -1
+y_light/smw_bg_ray_screen_00
+  rotate: true
+  xy: 366, 713
+  size: 297, 363
+  orig: 297, 363
+  offset: 0, 0
+  index: -1
+y_light/smw_bg_ray_screen_01
+  rotate: true
+  xy: 731, 670
+  size: 297, 363
+  orig: 297, 363
+  offset: 0, 0
+  index: -1
+y_light/smw_bg_ray_screen_02
+  rotate: true
+  xy: 1096, 670
+  size: 297, 363
+  orig: 297, 363
+  offset: 0, 0
+  index: -1
+y_light/smw_bg_ray_screen_03
+  rotate: true
+  xy: 1461, 670
+  size: 297, 363
+  orig: 297, 363
+  offset: 0, 0
+  index: -1
+y_light/smw_bg_ray_screen_04
+  rotate: true
+  xy: 1, 600
+  size: 297, 363
+  orig: 297, 363
+  offset: 0, 0
+  index: -1
+y_light/smw_bg_ray_screen_05
+  rotate: true
+  xy: 366, 414
+  size: 297, 363
+  orig: 297, 363
+  offset: 0, 0
+  index: -1
+y_light/smw_bg_ray_screen_06
+  rotate: true
+  xy: 731, 371
+  size: 297, 363
+  orig: 297, 363
+  offset: 0, 0
+  index: -1
+y_light/smw_bg_ray_screen_07
+  rotate: true
+  xy: 1096, 371
+  size: 297, 363
+  orig: 297, 363
+  offset: 0, 0
+  index: -1
+y_light/smw_bg_ray_screen_08
+  rotate: true
+  xy: 1461, 371
+  size: 297, 363
+  orig: 297, 363
+  offset: 0, 0
+  index: -1
+y_light/smw_bg_ray_screen_09
+  rotate: true
+  xy: 1, 301
+  size: 297, 363
+  orig: 297, 363
+  offset: 0, 0
+  index: -1
+y_light/smw_bg_ray_screen_10
+  rotate: true
+  xy: 366, 115
+  size: 297, 363
+  orig: 297, 363
+  offset: 0, 0
+  index: -1
+y_light/smw_bg_ray_screen_11
+  rotate: true
+  xy: 731, 72
+  size: 297, 363
+  orig: 297, 363
+  offset: 0, 0
+  index: -1
+
+big_win2.jpg
+size: 1940,2029
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_dian/bw_trans_elec_add_03
+  rotate: true
+  xy: 1096, 1350
+  size: 378, 407
+  orig: 508, 505
+  offset: 71, 58
+  index: -1
+b_dian/bw_trans_elec_add_05
+  rotate: true
+  xy: 1, 1024
+  size: 404, 427
+  orig: 508, 505
+  offset: 60, 45
+  index: -1
+b_dian/bw_trans_elec_add_07
+  rotate: true
+  xy: 997, 471
+  size: 442, 469
+  orig: 508, 505
+  offset: 47, 18
+  index: -1
+b_dian/bw_trans_elec_add_08
+  rotate: true
+  xy: 1, 143
+  size: 444, 473
+  orig: 508, 505
+  offset: 44, 13
+  index: -1
+b_dian/bw_trans_elec_add_09
+  rotate: true
+  xy: 1450, 1
+  size: 468, 489
+  orig: 508, 505
+  offset: 29, 2
+  index: -1
+b_light/bw_bg_ray_screen_04
+  rotate: true
+  xy: 1, 1730
+  size: 298, 363
+  orig: 298, 363
+  offset: 0, 0
+  index: -1
+b_light/bw_bg_ray_screen_05
+  rotate: true
+  xy: 366, 1730
+  size: 298, 363
+  orig: 298, 363
+  offset: 0, 0
+  index: -1
+b_light/bw_bg_ray_screen_06
+  rotate: true
+  xy: 731, 1730
+  size: 298, 363
+  orig: 298, 363
+  offset: 0, 0
+  index: -1
+b_light/bw_bg_ray_screen_07
+  rotate: true
+  xy: 1096, 1730
+  size: 298, 363
+  orig: 298, 363
+  offset: 0, 0
+  index: -1
+b_light/bw_bg_ray_screen_08
+  rotate: true
+  xy: 1461, 1730
+  size: 298, 363
+  orig: 298, 363
+  offset: 0, 0
+  index: -1
+b_light/bw_bg_ray_screen_09
+  rotate: true
+  xy: 1, 1430
+  size: 298, 363
+  orig: 298, 363
+  offset: 0, 0
+  index: -1
+b_light/bw_bg_ray_screen_10
+  rotate: true
+  xy: 366, 1430
+  size: 298, 363
+  orig: 298, 363
+  offset: 0, 0
+  index: -1
+b_light/bw_bg_ray_screen_11
+  rotate: true
+  xy: 731, 1430
+  size: 298, 363
+  orig: 298, 363
+  offset: 0, 0
+  index: -1
+bw_light/bw_ufo_shine_screen
+  rotate: false
+  xy: 859, 915
+  size: 533, 433
+  orig: 533, 433
+  offset: 0, 0
+  index: -1
+bw_light/mw_ufo_shine_screen
+  rotate: false
+  xy: 1394, 915
+  size: 533, 433
+  orig: 533, 433
+  offset: 0, 0
+  index: -1
+bw_light/smw_ufo_shine_screen
+  rotate: false
+  xy: 1, 589
+  size: 533, 433
+  orig: 533, 433
+  offset: 0, 0
+  index: -1
+r_dian/tw_impact_screen_01
+  rotate: true
+  xy: 536, 477
+  size: 436, 459
+  orig: 526, 535
+  offset: 55, 51
+  index: -1
+r_dian/tw_impact_screen_02
+  rotate: true
+  xy: 951, 3
+  size: 466, 497
+  orig: 526, 535
+  offset: 45, 30
+  index: -1
+y_dian/mw_trans_elec_add_03
+  rotate: true
+  xy: 1505, 1350
+  size: 378, 407
+  orig: 508, 505
+  offset: 71, 58
+  index: -1
+y_dian/mw_trans_elec_add_05
+  rotate: true
+  xy: 430, 1024
+  size: 404, 427
+  orig: 508, 505
+  offset: 60, 45
+  index: -1
+y_dian/mw_trans_elec_add_07
+  rotate: true
+  xy: 1468, 471
+  size: 442, 469
+  orig: 508, 505
+  offset: 47, 18
+  index: -1
+y_dian/mw_trans_elec_add_08
+  rotate: true
+  xy: 476, 31
+  size: 444, 473
+  orig: 508, 505
+  offset: 44, 13
+  index: -1
+
+big_win3.jpg
+size: 1527,1492
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_dian/bw_trans_elec_add_11
+  rotate: true
+  xy: 1021, 510
+  size: 468, 497
+  orig: 508, 505
+  offset: 31, 0
+  index: -1
+bw_light/bw_trans_impact_add
+  rotate: false
+  xy: 538, 984
+  size: 508, 507
+  orig: 508, 507
+  offset: 0, 0
+  index: -1
+bw_light/mw_trans_impact_add
+  rotate: false
+  xy: 1, 481
+  size: 508, 507
+  orig: 508, 507
+  offset: 0, 0
+  index: -1
+bw_light/smw_trans_impact_add
+  rotate: false
+  xy: 511, 475
+  size: 508, 507
+  orig: 508, 507
+  offset: 0, 0
+  index: -1
+r_dian/tw_impact_screen_03
+  rotate: true
+  xy: 1, 1
+  size: 478, 507
+  orig: 526, 535
+  offset: 39, 20
+  index: -1
+r_dian/tw_impact_screen_04
+  rotate: false
+  xy: 1048, 980
+  size: 478, 511
+  orig: 526, 535
+  offset: 38, 15
+  index: -1
+r_dian/tw_impact_screen_07
+  rotate: true
+  xy: 1, 990
+  size: 501, 535
+  orig: 526, 535
+  offset: 25, 0
+  index: -1
+y_dian/mw_trans_elec_add_09
+  rotate: true
+  xy: 510, 5
+  size: 468, 489
+  orig: 508, 505
+  offset: 29, 2
+  index: -1
+y_dian/mw_trans_elec_add_11
+  rotate: true
+  xy: 1021, 40
+  size: 468, 497
+  orig: 508, 505
+  offset: 31, 0
+  index: -1
+
+
+big_win4.png
+size: 1975,835
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ui/bw_bg_a
+  rotate: true
+  xy: 1617, 209
+  size: 625, 357
+  orig: 625, 357
+  offset: 0, 0
+  index: -1
+ui/bw_bg_b
+  rotate: true
+  xy: 426, 138
+  size: 696, 277
+  orig: 708, 287
+  offset: 12, 0
+  index: -1
+ui/bw_sheep_a
+  rotate: false
+  xy: 109, 5
+  size: 135, 86
+  orig: 135, 86
+  offset: 0, 0
+  index: -1
+ui/bw_sheep_b
+  rotate: false
+  xy: 885, 15
+  size: 118, 125
+  orig: 118, 125
+  offset: 0, 0
+  index: -1
+ui/bw_sheep_c
+  rotate: true
+  xy: 682, 9
+  size: 127, 97
+  orig: 127, 97
+  offset: 0, 0
+  index: -1
+ui/bw_sheep_d
+  rotate: true
+  xy: 1, 4
+  size: 87, 106
+  orig: 87, 106
+  offset: 0, 0
+  index: -1
+ui/mw_bg_a
+  rotate: true
+  xy: 1240, 176
+  size: 658, 375
+  orig: 658, 375
+  offset: 0, 0
+  index: -1
+ui/mw_bg_b
+  rotate: true
+  xy: 705, 142
+  size: 692, 270
+  orig: 692, 277
+  offset: 0, 0
+  index: -1
+ui/mw_sheep_a
+  rotate: false
+  xy: 456, 5
+  size: 123, 131
+  orig: 123, 131
+  offset: 0, 0
+  index: -1
+ui/mw_sheep_b
+  rotate: false
+  xy: 581, 9
+  size: 99, 127
+  orig: 99, 127
+  offset: 0, 0
+  index: -1
+ui/mw_sheep_c
+  rotate: false
+  xy: 1005, 30
+  size: 104, 114
+  orig: 104, 114
+  offset: 0, 0
+  index: -1
+ui/mw_tank_a
+  rotate: false
+  xy: 781, 1
+  size: 102, 139
+  orig: 102, 139
+  offset: 0, 0
+  index: -1
+ui/mw_tank_b
+  rotate: true
+  xy: 246, 8
+  size: 83, 94
+  orig: 83, 94
+  offset: 0, 0
+  index: -1
+ui/smw_bg_a
+  rotate: true
+  xy: 1, 93
+  size: 741, 423
+  orig: 741, 423
+  offset: 0, 0
+  index: -1
+ui/smw_bg_b
+  rotate: true
+  xy: 977, 146
+  size: 688, 261
+  orig: 694, 264
+  offset: 6, 0
+  index: -1
+ui/smw_cow_a
+  rotate: false
+  xy: 1617, 10
+  size: 197, 197
+  orig: 197, 197
+  offset: 0, 0
+  index: -1
+ui/smw_tank_a
+  rotate: true
+  xy: 342, 11
+  size: 80, 112
+  orig: 80, 112
+  offset: 0, 0
+  index: -1
+ui/smw_tank_b
+  rotate: false
+  xy: 1346, 19
+  size: 106, 155
+  orig: 106, 155
+  offset: 0, 0
+  index: -1
+ui/smw_tank_c
+  rotate: true
+  xy: 1188, 38
+  size: 106, 156
+  orig: 106, 156
+  offset: 0, 0
+  index: -1
+ui/smw_tank_d
+  rotate: false
+  xy: 1111, 34
+  size: 75, 110
+  orig: 75, 110
+  offset: 0, 0
+  index: -1
+

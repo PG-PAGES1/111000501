@@ -1,0 +1,139 @@
+
+button.png
+size: 1989,712
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a5f7e08e-28d7-41a7-aa6c-8737bd66879a.6ecef/tw_btn_bg_screen_00
+  rotate: false
+  xy: 2, 213
+  size: 311, 209
+  orig: 339, 209
+  offset: 15, 0
+  index: -1
+a5f7e08e-28d7-41a7-aa6c-8737bd66879a.6ecef/tw_btn_bg_screen_01
+  rotate: false
+  xy: 512, 501
+  size: 311, 209
+  orig: 339, 209
+  offset: 15, 0
+  index: -1
+a5f7e08e-28d7-41a7-aa6c-8737bd66879a.6ecef/tw_btn_bg_screen_02
+  rotate: false
+  xy: 2, 2
+  size: 311, 209
+  orig: 339, 209
+  offset: 15, 0
+  index: -1
+a5f7e08e-28d7-41a7-aa6c-8737bd66879a.6ecef/tw_btn_bg_screen_03
+  rotate: false
+  xy: 825, 501
+  size: 311, 209
+  orig: 339, 209
+  offset: 15, 0
+  index: -1
+a5f7e08e-28d7-41a7-aa6c-8737bd66879a.6ecef/tw_btn_bg_screen_04
+  rotate: false
+  xy: 1138, 501
+  size: 311, 209
+  orig: 339, 209
+  offset: 15, 0
+  index: -1
+a5f7e08e-28d7-41a7-aa6c-8737bd66879a.6ecef/tw_btn_bg_screen_05
+  rotate: false
+  xy: 1451, 501
+  size: 311, 209
+  orig: 339, 209
+  offset: 15, 0
+  index: -1
+a5f7e08e-28d7-41a7-aa6c-8737bd66879a.6ecef/tw_btn_bg_screen_06
+  rotate: true
+  xy: 315, 111
+  size: 311, 209
+  orig: 339, 209
+  offset: 15, 0
+  index: -1
+a5f7e08e-28d7-41a7-aa6c-8737bd66879a.6ecef/tw_btn_bg_screen_07
+  rotate: false
+  xy: 526, 290
+  size: 311, 209
+  orig: 339, 209
+  offset: 15, 0
+  index: -1
+a5f7e08e-28d7-41a7-aa6c-8737bd66879a.6ecef/tw_btn_bg_screen_08
+  rotate: false
+  xy: 839, 290
+  size: 311, 209
+  orig: 339, 209
+  offset: 15, 0
+  index: -1
+a5f7e08e-28d7-41a7-aa6c-8737bd66879a.6ecef/tw_btn_bg_screen_09
+  rotate: false
+  xy: 1152, 290
+  size: 311, 209
+  orig: 339, 209
+  offset: 15, 0
+  index: -1
+a5f7e08e-28d7-41a7-aa6c-8737bd66879a.6ecef/tw_btn_bg_screen_10
+  rotate: false
+  xy: 1465, 290
+  size: 311, 209
+  orig: 339, 209
+  offset: 15, 0
+  index: -1
+a5f7e08e-28d7-41a7-aa6c-8737bd66879a.6ecef/tw_btn_bg_screen_11
+  rotate: false
+  xy: 526, 79
+  size: 311, 209
+  orig: 339, 209
+  offset: 15, 0
+  index: -1
+a5f7e08e-28d7-41a7-aa6c-8737bd66879a.6ecef/tw_btn_bg_screen_12
+  rotate: false
+  xy: 839, 79
+  size: 311, 209
+  orig: 339, 209
+  offset: 15, 0
+  index: -1
+a5f7e08e-28d7-41a7-aa6c-8737bd66879a.6ecef/tw_btn_bg_screen_13
+  rotate: false
+  xy: 1152, 79
+  size: 311, 209
+  orig: 339, 209
+  offset: 15, 0
+  index: -1
+a5f7e08e-28d7-41a7-aa6c-8737bd66879a.6ecef/tw_btn_bg_screen_14
+  rotate: false
+  xy: 1465, 79
+  size: 311, 209
+  orig: 339, 209
+  offset: 15, 0
+  index: -1
+a5f7e08e-28d7-41a7-aa6c-8737bd66879a.6ecef/tw_btn_bg_screen_15
+  rotate: true
+  xy: 1778, 399
+  size: 311, 209
+  orig: 339, 209
+  offset: 15, 0
+  index: -1
+a5f7e08e-28d7-41a7-aa6c-8737bd66879a.6ecef/tw_btn_bg_screen_16
+  rotate: true
+  xy: 1778, 86
+  size: 311, 209
+  orig: 339, 209
+  offset: 15, 0
+  index: -1
+bl_button
+  rotate: false
+  xy: 315, 4
+  size: 85, 105
+  orig: 85, 105
+  offset: 0, 0
+  index: -1
+fs_ufo_glow_screen
+  rotate: false
+  xy: 2, 424
+  size: 508, 286
+  orig: 508, 286
+  offset: 0, 0
+  index: -1

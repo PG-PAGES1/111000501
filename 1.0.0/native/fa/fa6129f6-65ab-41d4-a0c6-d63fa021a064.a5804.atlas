@@ -1,0 +1,13 @@
+
+longing.png
+size: 255,255
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bl_load_add
+  rotate: false
+  xy: 1, 1
+  size: 253, 253
+  orig: 253, 253
+  offset: 0, 0
+  index: -1

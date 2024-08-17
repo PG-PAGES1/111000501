@@ -1,0 +1,250 @@
+
+jiasu.png
+size: 1924,2022
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+animation_speedup_reel/fs_ray_screen_00
+  rotate: false
+  xy: 1, 1349
+  size: 286, 672
+  orig: 286, 672
+  offset: 0, 0
+  index: -1
+animation_speedup_reel/fs_ray_screen_01
+  rotate: false
+  xy: 1, 675
+  size: 286, 672
+  orig: 286, 672
+  offset: 0, 0
+  index: -1
+animation_speedup_reel/fs_ray_screen_03
+  rotate: false
+  xy: 1, 1
+  size: 286, 672
+  orig: 286, 672
+  offset: 0, 0
+  index: -1
+animation_speedup_reel/fs_ray_screen_04
+  rotate: true
+  xy: 289, 1735
+  size: 286, 672
+  orig: 286, 672
+  offset: 0, 0
+  index: -1
+animation_speedup_reel/fs_ray_screen_05
+  rotate: true
+  xy: 963, 1735
+  size: 286, 672
+  orig: 286, 672
+  offset: 0, 0
+  index: -1
+animation_speedup_reel/fs_ray_screen_06
+  rotate: false
+  xy: 1637, 1349
+  size: 286, 672
+  orig: 286, 672
+  offset: 0, 0
+  index: -1
+animation_speedup_reel/fs_ray_screen_07
+  rotate: true
+  xy: 289, 1447
+  size: 286, 672
+  orig: 286, 672
+  offset: 0, 0
+  index: -1
+animation_speedup_reel/fs_ray_screen_08
+  rotate: true
+  xy: 963, 1447
+  size: 286, 672
+  orig: 286, 672
+  offset: 0, 0
+  index: -1
+animation_speedup_reel/fs_ray_screen_09
+  rotate: true
+  xy: 289, 1159
+  size: 286, 672
+  orig: 286, 672
+  offset: 0, 0
+  index: -1
+animation_speedup_reel/fs_ray_screen_10
+  rotate: true
+  xy: 963, 1159
+  size: 286, 672
+  orig: 286, 672
+  offset: 0, 0
+  index: -1
+animation_speedup_reel/fs_ray_screen_11
+  rotate: false
+  xy: 1637, 675
+  size: 286, 672
+  orig: 286, 672
+  offset: 0, 0
+  index: -1
+animation_speedup_reel/fs_ray_screen_12
+  rotate: false
+  xy: 289, 1
+  size: 286, 672
+  orig: 286, 672
+  offset: 0, 0
+  index: -1
+animation_speedup_reel/fs_ray_screen_13
+  rotate: true
+  xy: 289, 871
+  size: 286, 672
+  orig: 286, 672
+  offset: 0, 0
+  index: -1
+animation_speedup_reel/fs_ray_screen_14
+  rotate: true
+  xy: 913, 583
+  size: 286, 672
+  orig: 286, 672
+  offset: 0, 0
+  index: -1
+animation_speedup_reel/fs_ray_screen_15
+  rotate: true
+  xy: 963, 871
+  size: 286, 672
+  orig: 286, 672
+  offset: 0, 0
+  index: -1
+bark
+  rotate: true
+  xy: 577, 481
+  size: 211, 228
+  orig: 211, 228
+  offset: 0, 0
+  index: -1
+reel_speedup_border_light/fs_reel_glow_screen_07
+  rotate: true
+  xy: 577, 278
+  size: 201, 750
+  orig: 201, 750
+  offset: 0, 0
+  index: -1
+reel_speedup_border_light/fs_reel_glow_screen_08
+  rotate: true
+  xy: 577, 75
+  size: 201, 750
+  orig: 201, 750
+  offset: 0, 0
+  index: -1
+tb_sb_reel_light/fs_bg_glow_screen
+  rotate: true
+  xy: 289, 694
+  size: 175, 622
+  orig: 175, 622
+  offset: 0, 0
+  index: -1
+
+jiasu2.png
+size: 1827,1360
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+reel_speedup_border_light/fs_reel_glow_screen_00
+  rotate: true
+  xy: 204, 407
+  size: 201, 747
+  orig: 201, 750
+  offset: 0, 0
+  index: -1
+reel_speedup_border_light/fs_reel_glow_screen_01
+  rotate: true
+  xy: 953, 407
+  size: 201, 747
+  orig: 201, 750
+  offset: 0, 0
+  index: -1
+reel_speedup_border_light/fs_reel_glow_screen_02
+  rotate: true
+  xy: 1, 204
+  size: 201, 747
+  orig: 201, 750
+  offset: 0, 0
+  index: -1
+reel_speedup_border_light/fs_reel_glow_screen_03
+  rotate: false
+  xy: 204, 610
+  size: 201, 749
+  orig: 201, 750
+  offset: 0, 0
+  index: -1
+reel_speedup_border_light/fs_reel_glow_screen_04
+  rotate: false
+  xy: 407, 610
+  size: 201, 749
+  orig: 201, 750
+  offset: 0, 0
+  index: -1
+reel_speedup_border_light/fs_reel_glow_screen_05
+  rotate: false
+  xy: 610, 610
+  size: 201, 749
+  orig: 201, 750
+  offset: 0, 0
+  index: -1
+reel_speedup_border_light/fs_reel_glow_screen_06
+  rotate: false
+  xy: 813, 610
+  size: 201, 749
+  orig: 201, 750
+  offset: 0, 0
+  index: -1
+reel_speedup_border_light/fs_reel_glow_screen_09
+  rotate: false
+  xy: 1, 609
+  size: 201, 750
+  orig: 201, 750
+  offset: 0, 0
+  index: -1
+reel_speedup_border_light/fs_reel_glow_screen_10
+  rotate: false
+  xy: 1016, 610
+  size: 201, 749
+  orig: 201, 750
+  offset: 0, 0
+  index: -1
+reel_speedup_border_light/fs_reel_glow_screen_11
+  rotate: false
+  xy: 1219, 610
+  size: 201, 749
+  orig: 201, 750
+  offset: 0, 0
+  index: -1
+reel_speedup_border_light/fs_reel_glow_screen_12
+  rotate: false
+  xy: 1422, 610
+  size: 201, 749
+  orig: 201, 750
+  offset: 0, 0
+  index: -1
+reel_speedup_border_light/fs_reel_glow_screen_13
+  rotate: false
+  xy: 1625, 610
+  size: 201, 749
+  orig: 201, 750
+  offset: 0, 0
+  index: -1
+reel_speedup_border_light/fs_reel_glow_screen_14
+  rotate: true
+  xy: 1, 1
+  size: 201, 747
+  orig: 201, 750
+  offset: 0, 0
+  index: -1
+reel_speedup_border_light/fs_reel_glow_screen_15
+  rotate: true
+  xy: 750, 204
+  size: 201, 747
+  orig: 201, 750
+  offset: 0, 0
+  index: -1
+reel_speedup_border_light/fs_reel_glow_screen_16
+  rotate: true
+  xy: 750, 1
+  size: 201, 747
+  orig: 201, 750
+  offset: 0, 0
+  index: -1

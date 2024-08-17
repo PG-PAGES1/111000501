@@ -1,0 +1,311 @@
+
+jiesuan.jpg
+size: 1859,2041
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fs_end_elec/tw_impact_screen_00
+  rotate: false
+  xy: 2, 2
+  size: 3, 3
+  orig: 526, 535
+  offset: 0, 532
+  index: -1
+fs_end_elec/tw_impact_screen_05
+  rotate: false
+  xy: 2, 2
+  size: 3, 3
+  orig: 526, 535
+  offset: 0, 532
+  index: -1
+fs_end_elec/tw_impact_screen_06
+  rotate: false
+  xy: 2, 2
+  size: 3, 3
+  orig: 526, 535
+  offset: 0, 532
+  index: -1
+fs_end_elec/tw_impact_screen_08
+  rotate: false
+  xy: 2, 2
+  size: 3, 3
+  orig: 526, 535
+  offset: 0, 532
+  index: -1
+fs_end_elec/tw_impact_screen_09
+  rotate: false
+  xy: 2, 2
+  size: 3, 3
+  orig: 526, 535
+  offset: 0, 532
+  index: -1
+fs_end_elec/tw_impact_screen_10
+  rotate: false
+  xy: 2, 2
+  size: 3, 3
+  orig: 526, 535
+  offset: 0, 532
+  index: -1
+fs_end_elec/tw_impact_screen_11
+  rotate: false
+  xy: 2, 2
+  size: 3, 3
+  orig: 526, 535
+  offset: 0, 532
+  index: -1
+fs_end_torus_light/tw_flash_screen_00
+  rotate: true
+  xy: 687, 11
+  size: 250, 249
+  orig: 456, 447
+  offset: 103, 101
+  index: -1
+fs_end_torus_light/tw_flash_screen_01
+  rotate: true
+  xy: 386, 25
+  size: 300, 299
+  orig: 456, 447
+  offset: 78, 76
+  index: -1
+fs_end_trans/tw_trans_screen_00
+  rotate: false
+  xy: 2, 27
+  size: 382, 298
+  orig: 540, 1170
+  offset: 89, 872
+  index: -1
+fs_end_trans/tw_trans_screen_05
+  rotate: false
+  xy: 2, 869
+  size: 540, 1170
+  orig: 540, 1170
+  offset: 0, 0
+  index: -1
+fs_end_trans/tw_trans_screen_06
+  rotate: true
+  xy: 2, 327
+  size: 540, 1170
+  orig: 540, 1170
+  offset: 0, 0
+  index: -1
+fs_end_trans/tw_trans_screen_08
+  rotate: false
+  xy: 1174, 869
+  size: 540, 1170
+  orig: 540, 1170
+  offset: 0, 0
+  index: -1
+fs_end_trans/tw_trans_screen_10
+  rotate: true
+  xy: 687, 263
+  size: 62, 1170
+  orig: 540, 1170
+  offset: 242, 0
+  index: -1
+fs_end_trans/tw_trans_screen_11
+  rotate: false
+  xy: 2, 7
+  size: 190, 18
+  orig: 540, 1170
+  offset: 271, 1148
+  index: -1
+fs_end_trans01/tw_trans_screen_01
+  rotate: true
+  xy: 1174, 327
+  size: 540, 634
+  orig: 540, 1170
+  offset: 0, 536
+  index: -1
+fs_end_trans01/tw_trans_screen_07
+  rotate: false
+  xy: 544, 869
+  size: 540, 1170
+  orig: 540, 1170
+  offset: 0, 0
+  index: -1
+
+jiesuan2.jpg
+size: 2027,1796
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fs_end_elec/tw_impact_screen_01
+  rotate: true
+  xy: 870, 936
+  size: 434, 457
+  orig: 526, 535
+  offset: 56, 52
+  index: -1
+fs_end_elec/tw_impact_screen_02
+  rotate: true
+  xy: 460, 14
+  size: 464, 495
+  orig: 526, 535
+  offset: 46, 31
+  index: -1
+fs_end_elec/tw_impact_screen_03
+  rotate: true
+  xy: 957, 2
+  size: 476, 505
+  orig: 526, 535
+  offset: 40, 21
+  index: -1
+fs_end_elec/tw_impact_screen_04
+  rotate: true
+  xy: 1464, 2
+  size: 476, 509
+  orig: 526, 535
+  offset: 39, 16
+  index: -1
+fs_end_torus_light/tw_flash_screen_02
+  rotate: false
+  xy: 2, 1459
+  size: 336, 335
+  orig: 456, 447
+  offset: 60, 57
+  index: -1
+fs_end_torus_light/tw_flash_screen_03
+  rotate: false
+  xy: 340, 1403
+  size: 392, 391
+  orig: 456, 447
+  offset: 32, 30
+  index: -1
+fs_end_torus_light/tw_flash_screen_04
+  rotate: false
+  xy: 734, 1383
+  size: 412, 411
+  orig: 456, 447
+  offset: 22, 20
+  index: -1
+fs_end_torus_light/tw_flash_screen_05
+  rotate: false
+  xy: 1595, 1365
+  size: 430, 429
+  orig: 456, 447
+  offset: 13, 11
+  index: -1
+fs_end_torus_light/tw_flash_screen_06
+  rotate: false
+  xy: 441, 491
+  size: 444, 443
+  orig: 456, 447
+  offset: 6, 3
+  index: -1
+fs_end_torus_light/tw_flash_screen_07
+  rotate: false
+  xy: 887, 480
+  size: 456, 447
+  orig: 456, 447
+  offset: 0, 0
+  index: -1
+fs_end_torus_light/tw_flash_screen_08
+  rotate: false
+  xy: 1345, 480
+  size: 456, 447
+  orig: 456, 447
+  offset: 0, 0
+  index: -1
+fs_end_torus_light/tw_flash_screen_09
+  rotate: false
+  xy: 2, 42
+  size: 456, 447
+  orig: 456, 447
+  offset: 0, 0
+  index: -1
+fs_end_torus_light/tw_flash_screen_10
+  rotate: true
+  xy: 1148, 1372
+  size: 422, 445
+  orig: 456, 447
+  offset: 17, 2
+  index: -1
+fs_end_torus_light/tw_flash_screen_11
+  rotate: true
+  xy: 2, 971
+  size: 430, 431
+  orig: 456, 447
+  offset: 13, 9
+  index: -1
+fs_end_torus_light/tw_flash_screen_12
+  rotate: true
+  xy: 435, 949
+  size: 432, 433
+  orig: 456, 447
+  offset: 12, 8
+  index: -1
+fs_end_torus_light/tw_flash_screen_13
+  rotate: true
+  xy: 1329, 929
+  size: 434, 435
+  orig: 456, 447
+  offset: 11, 8
+  index: -1
+fs_end_torus_light/tw_flash_screen_14
+  rotate: true
+  xy: 2, 511
+  size: 436, 437
+  orig: 456, 447
+  offset: 10, 6
+  index: -1
+
+jiesuan3.jpg
+size: 1998,1628
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fs_end_elec/tw_impact_screen_07
+  rotate: true
+  xy: 2, 1126
+  size: 500, 535
+  orig: 526, 535
+  offset: 26, 0
+  index: -1
+fs_end_trans/tw_trans_screen_03
+  rotate: true
+  xy: 2, 550
+  size: 540, 1005
+  orig: 540, 1170
+  offset: 0, 165
+  index: -1
+fs_end_trans01/tw_trans_screen_02
+  rotate: true
+  xy: 1081, 1086
+  size: 540, 915
+  orig: 540, 1170
+  offset: 0, 255
+  index: -1
+fs_end_trans01/tw_trans_screen_04
+  rotate: true
+  xy: 2, 2
+  size: 540, 1161
+  orig: 540, 1170
+  offset: 0, 9
+  index: -1
+tw_glow_screen
+  rotate: false
+  xy: 539, 1092
+  size: 540, 534
+  orig: 540, 534
+  offset: 0, 0
+  index: -1
+tw_shine_screen
+  rotate: true
+  xy: 1009, 544
+  size: 540, 543
+  orig: 540, 543
+  offset: 0, 0
+  index: -1
+
+jiesuan4.jpg
+size: 544,1174
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fs_end_trans01/tw_trans_screen_09
+  rotate: false
+  xy: 2, 2
+  size: 540, 1170
+  orig: 540, 1170
+  offset: 0, 0
+  index: -1

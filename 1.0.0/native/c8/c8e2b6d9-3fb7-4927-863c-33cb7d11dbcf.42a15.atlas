@@ -1,0 +1,132 @@
+
+multiple.jpg
+size: 995,1052
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mf_mtp_bg_screen
+  rotate: true
+  xy: 1, 1
+  size: 300, 307
+  orig: 300, 307
+  offset: 0, 0
+  index: -1
+mg_mtp_light
+  rotate: true
+  xy: 1, 303
+  size: 748, 293
+  orig: 748, 293
+  offset: 0, 0
+  index: -1
+tb01_win_particle/mf_mtp_particle_add_00
+  rotate: false
+  xy: 524, 34
+  size: 108, 99
+  orig: 246, 247
+  offset: 56, 70
+  index: -1
+tb01_win_particle/mf_mtp_particle_add_01
+  rotate: false
+  xy: 781, 158
+  size: 206, 223
+  orig: 246, 247
+  offset: 10, 0
+  index: -1
+tb01_win_particle/mf_mtp_particle_add_02
+  rotate: false
+  xy: 310, 110
+  size: 212, 225
+  orig: 246, 247
+  offset: 7, 0
+  index: -1
+tb01_win_particle/mf_mtp_particle_add_03
+  rotate: true
+  xy: 547, 350
+  size: 222, 219
+  orig: 246, 247
+  offset: 12, 2
+  index: -1
+tb01_win_particle/mf_mtp_particle_add_04
+  rotate: true
+  xy: 768, 809
+  size: 242, 223
+  orig: 246, 247
+  offset: 1, 6
+  index: -1
+tb01_win_particle/mf_mtp_particle_add_05
+  rotate: false
+  xy: 537, 574
+  size: 245, 229
+  orig: 246, 247
+  offset: 1, 6
+  index: -1
+tb01_win_particle/mf_mtp_particle_add_06
+  rotate: true
+  xy: 537, 805
+  size: 246, 229
+  orig: 246, 247
+  offset: 0, 9
+  index: -1
+tb01_win_particle/mf_mtp_particle_add_07
+  rotate: true
+  xy: 296, 571
+  size: 238, 239
+  orig: 246, 247
+  offset: 0, 2
+  index: -1
+tb01_win_particle/mf_mtp_particle_add_08
+  rotate: true
+  xy: 296, 811
+  size: 240, 239
+  orig: 246, 247
+  offset: 0, 2
+  index: -1
+tb01_win_particle/mf_mtp_particle_add_09
+  rotate: true
+  xy: 310, 337
+  size: 232, 235
+  orig: 246, 247
+  offset: 8, 4
+  index: -1
+tb01_win_particle/mf_mtp_particle_add_10
+  rotate: false
+  xy: 547, 135
+  size: 232, 213
+  orig: 246, 247
+  offset: 8, 3
+  index: -1
+tb01_win_particle/mf_mtp_particle_add_11
+  rotate: true
+  xy: 784, 577
+  size: 230, 203
+  orig: 246, 247
+  offset: 9, 4
+  index: -1
+tb01_win_particle/mf_mtp_particle_add_12
+  rotate: false
+  xy: 768, 383
+  size: 226, 189
+  orig: 246, 247
+  offset: 11, 5
+  index: -1
+tb01_win_particle/mf_mtp_particle_add_13
+  rotate: true
+  xy: 781, 14
+  size: 142, 165
+  orig: 246, 247
+  offset: 60, 7
+  index: -1
+tb01_win_particle/mf_mtp_particle_add_14
+  rotate: false
+  xy: 634, 46
+  size: 90, 87
+  orig: 246, 247
+  offset: 75, 70
+  index: -1
+tb01_win_particle/mf_mtp_particle_add_15
+  rotate: false
+  xy: 310, 43
+  size: 68, 65
+  orig: 246, 247
+  offset: 83, 82
+  index: -1

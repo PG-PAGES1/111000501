@@ -1,0 +1,418 @@
+
+frer_multiple.png
+size: 2047,2027
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bns_ufo
+  rotate: false
+  xy: 255, 1059
+  size: 378, 252
+  orig: 378, 252
+  offset: 0, 0
+  index: -1
+fs_end_torus_light/tw_flash_screen_00
+  rotate: false
+  xy: 1, 1084
+  size: 252, 251
+  orig: 456, 447
+  offset: 102, 100
+  index: -1
+fs_end_torus_light/tw_flash_screen_01
+  rotate: false
+  xy: 912, 893
+  size: 302, 301
+  orig: 456, 447
+  offset: 77, 75
+  index: -1
+fs_end_torus_light/tw_flash_screen_02
+  rotate: false
+  xy: 759, 554
+  size: 338, 337
+  orig: 456, 447
+  offset: 59, 56
+  index: -1
+fs_end_torus_light/tw_flash_screen_03
+  rotate: false
+  xy: 1508, 434
+  size: 394, 393
+  orig: 456, 447
+  offset: 31, 29
+  index: -1
+fs_end_torus_light/tw_flash_screen_04
+  rotate: false
+  xy: 430, 139
+  size: 414, 413
+  orig: 456, 447
+  offset: 21, 19
+  index: -1
+fs_end_torus_light/tw_flash_screen_05
+  rotate: false
+  xy: 1294, 1
+  size: 432, 431
+  orig: 456, 447
+  offset: 12, 10
+  index: -1
+fs_end_torus_light/tw_flash_screen_10
+  rotate: true
+  xy: 846, 23
+  size: 424, 446
+  orig: 456, 447
+  offset: 16, 1
+  index: -1
+fs_enter_track_animation/bns_trans_screen_00
+  rotate: true
+  xy: 908, 1906
+  size: 120, 585
+  orig: 270, 585
+  offset: 0, 0
+  index: -1
+fs_enter_track_animation/bns_trans_screen_01
+  rotate: true
+  xy: 1, 1804
+  size: 120, 585
+  orig: 270, 585
+  offset: 0, 0
+  index: -1
+fs_enter_track_animation/bns_trans_screen_02
+  rotate: true
+  xy: 1175, 1783
+  size: 121, 523
+  orig: 270, 585
+  offset: 0, 0
+  index: -1
+fs_enter_track_animation/bns_trans_screen_03
+  rotate: true
+  xy: 1, 1681
+  size: 121, 585
+  orig: 270, 585
+  offset: 0, 0
+  index: -1
+fs_enter_track_animation/bns_trans_screen_04
+  rotate: true
+  xy: 588, 1661
+  size: 121, 585
+  orig: 270, 585
+  offset: 0, 0
+  index: -1
+fs_enter_track_animation/bns_trans_screen_05
+  rotate: true
+  xy: 321, 1926
+  size: 100, 585
+  orig: 270, 585
+  offset: 0, 0
+  index: -1
+fs_enter_track_animation/bns_trans_screen_06
+  rotate: true
+  xy: 1175, 1640
+  size: 121, 585
+  orig: 270, 585
+  offset: 0, 0
+  index: -1
+fs_enter_track_animation/bns_trans_screen_07
+  rotate: true
+  xy: 1, 1558
+  size: 121, 585
+  orig: 270, 585
+  offset: 0, 0
+  index: -1
+fs_enter_track_animation/bns_trans_screen_08
+  rotate: true
+  xy: 588, 1538
+  size: 121, 585
+  orig: 270, 585
+  offset: 0, 0
+  index: -1
+fs_enter_track_animation/bns_trans_screen_09
+  rotate: true
+  xy: 588, 1784
+  size: 120, 585
+  orig: 270, 585
+  offset: 0, 0
+  index: -1
+fs_enter_track_animation/bns_trans_screen_10
+  rotate: true
+  xy: 1495, 1906
+  size: 120, 551
+  orig: 270, 585
+  offset: 0, 34
+  index: -1
+fs_multiplier_particle_add/bns_mtp_particle_add_00
+  rotate: false
+  xy: 212, 1927
+  size: 107, 99
+  orig: 269, 263
+  offset: 71, 85
+  index: -1
+fs_multiplier_particle_add/bns_mtp_particle_add_01
+  rotate: true
+  xy: 1406, 1431
+  size: 207, 223
+  orig: 269, 263
+  offset: 23, 16
+  index: -1
+fs_multiplier_particle_add/bns_mtp_particle_add_02
+  rotate: true
+  xy: 1631, 1356
+  size: 211, 225
+  orig: 269, 263
+  offset: 22, 15
+  index: -1
+fs_multiplier_particle_add/bns_mtp_particle_add_03
+  rotate: false
+  xy: 236, 1337
+  size: 221, 219
+  orig: 269, 263
+  offset: 26, 18
+  index: -1
+fs_multiplier_particle_add/bns_mtp_particle_add_04
+  rotate: false
+  xy: 459, 1313
+  size: 241, 223
+  orig: 269, 263
+  offset: 15, 21
+  index: -1
+fs_multiplier_particle_add/bns_mtp_particle_add_05
+  rotate: false
+  xy: 702, 1307
+  size: 247, 229
+  orig: 269, 263
+  offset: 15, 21
+  index: -1
+fs_multiplier_particle_add/bns_mtp_particle_add_06
+  rotate: false
+  xy: 951, 1204
+  size: 249, 229
+  orig: 269, 263
+  offset: 14, 24
+  index: -1
+fs_multiplier_particle_add/bns_mtp_particle_add_07
+  rotate: false
+  xy: 1439, 1115
+  size: 239, 239
+  orig: 269, 263
+  offset: 13, 17
+  index: -1
+fs_multiplier_particle_add/bns_mtp_particle_add_08
+  rotate: false
+  xy: 1680, 1115
+  size: 239, 239
+  orig: 269, 263
+  offset: 15, 17
+  index: -1
+fs_multiplier_particle_add/bns_mtp_particle_add_09
+  rotate: true
+  xy: 1202, 1196
+  size: 233, 235
+  orig: 269, 263
+  offset: 21, 19
+  index: -1
+fs_multiplier_particle_add/bns_mtp_particle_add_10
+  rotate: false
+  xy: 1, 1343
+  size: 233, 213
+  orig: 269, 263
+  offset: 21, 19
+  index: -1
+fs_multiplier_particle_add/bns_mtp_particle_add_11
+  rotate: false
+  xy: 1175, 1435
+  size: 229, 203
+  orig: 269, 263
+  offset: 24, 20
+  index: -1
+fs_multiplier_particle_add/bns_mtp_particle_add_12
+  rotate: false
+  xy: 1762, 1569
+  size: 227, 189
+  orig: 269, 263
+  offset: 24, 21
+  index: -1
+fs_multiplier_particle_add/bns_mtp_particle_add_13
+  rotate: true
+  xy: 1700, 1763
+  size: 141, 165
+  orig: 269, 263
+  offset: 75, 23
+  index: -1
+fs_multiplier_particle_add/bns_mtp_particle_add_14
+  rotate: false
+  xy: 119, 1939
+  size: 91, 87
+  orig: 269, 263
+  offset: 88, 86
+  index: -1
+fs_multiplier_particle_add/bns_mtp_particle_add_15
+  rotate: false
+  xy: 50, 1961
+  size: 67, 65
+  orig: 269, 263
+  offset: 98, 98
+  index: -1
+fs_multiplier_particle_add/bns_mtp_particle_add_16
+  rotate: true
+  xy: 7, 1989
+  size: 37, 41
+  orig: 269, 263
+  offset: 113, 109
+  index: -1
+mw_trans_elec/mw_trans_elec_add_00
+  rotate: true
+  xy: 1867, 1760
+  size: 144, 157
+  orig: 508, 505
+  offset: 184, 177
+  index: -1
+mw_trans_elec/mw_trans_elec_add_01
+  rotate: true
+  xy: 635, 1051
+  size: 254, 275
+  orig: 508, 505
+  offset: 127, 118
+  index: -1
+mw_trans_elec/mw_trans_elec_add_02
+  rotate: false
+  xy: 1, 2022
+  size: 4, 4
+  orig: 508, 505
+  offset: 0, 501
+  index: -1
+mw_trans_elec/mw_trans_elec_add_04
+  rotate: false
+  xy: 1, 2022
+  size: 4, 4
+  orig: 508, 505
+  offset: 0, 501
+  index: -1
+mw_trans_elec/mw_trans_elec_add_06
+  rotate: false
+  xy: 1, 2022
+  size: 4, 4
+  orig: 508, 505
+  offset: 0, 501
+  index: -1
+mw_trans_elec/mw_trans_elec_add_10
+  rotate: false
+  xy: 1, 2022
+  size: 4, 4
+  orig: 508, 505
+  offset: 0, 501
+  index: -1
+mw_trans_elec/mw_trans_elec_add_03
+  rotate: true
+  xy: 1099, 449
+  size: 378, 407
+  orig: 508, 505
+  offset: 71, 58
+  index: -1
+mw_trans_elec/mw_trans_elec_add_05
+  rotate: true
+  xy: 1, 340
+  size: 404, 427
+  orig: 508, 505
+  offset: 60, 45
+  index: -1
+sd_reel_glow_screen
+  rotate: false
+  xy: 1, 746
+  size: 756, 303
+  orig: 756, 303
+  offset: 0, 0
+  index: -1
+tb_sb_reel_light/bns_mtp_shine_screen
+  rotate: false
+  xy: 1216, 829
+  size: 731, 284
+  orig: 731, 284
+  offset: 0, 0
+  index: -1
+
+frer_multiple2.png
+size: 1854,1377
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fs_end_torus_light/tw_flash_screen_06
+  rotate: true
+  xy: 450, 439
+  size: 446, 445
+  orig: 456, 447
+  offset: 5, 2
+  index: -1
+fs_end_torus_light/tw_flash_screen_07
+  rotate: true
+  xy: 1, 450
+  size: 456, 447
+  orig: 456, 447
+  offset: 0, 0
+  index: -1
+fs_end_torus_light/tw_flash_screen_08
+  rotate: true
+  xy: 970, 920
+  size: 456, 447
+  orig: 456, 447
+  offset: 0, 0
+  index: -1
+fs_end_torus_light/tw_flash_screen_09
+  rotate: true
+  xy: 970, 462
+  size: 456, 447
+  orig: 456, 447
+  offset: 0, 0
+  index: -1
+fs_end_torus_light/tw_flash_screen_11
+  rotate: false
+  xy: 1419, 506
+  size: 432, 433
+  orig: 456, 447
+  offset: 12, 8
+  index: -1
+fs_end_torus_light/tw_flash_screen_12
+  rotate: false
+  xy: 1419, 941
+  size: 434, 435
+  orig: 456, 447
+  offset: 11, 7
+  index: -1
+fs_end_torus_light/tw_flash_screen_13
+  rotate: true
+  xy: 441, 1
+  size: 436, 437
+  orig: 456, 447
+  offset: 10, 7
+  index: -1
+fs_end_torus_light/tw_flash_screen_14
+  rotate: false
+  xy: 1, 9
+  size: 438, 439
+  orig: 456, 447
+  offset: 9, 5
+  index: -1
+mw_trans_elec/mw_trans_elec_add_07
+  rotate: true
+  xy: 1372, 18
+  size: 442, 469
+  orig: 508, 505
+  offset: 47, 18
+  index: -1
+mw_trans_elec/mw_trans_elec_add_08
+  rotate: true
+  xy: 897, 16
+  size: 444, 473
+  orig: 508, 505
+  offset: 44, 13
+  index: -1
+mw_trans_elec/mw_trans_elec_add_09
+  rotate: false
+  xy: 500, 887
+  size: 468, 489
+  orig: 508, 505
+  offset: 29, 2
+  index: -1
+mw_trans_elec/mw_trans_elec_add_11
+  rotate: true
+  xy: 1, 908
+  size: 468, 497
+  orig: 508, 505
+  offset: 31, 0
+  index: -1
